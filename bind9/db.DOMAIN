@@ -1,0 +1,9 @@
+@       in      SOA  DOMAIN. admin.DOMAIN. (
+                                2014030801      ; serial
+                                        1D      ; refresh
+                                        1H      ; retry
+                                        1W      ; expire
+                                        3H )    ; minimum
+
+@       NS      DOMAIN.
+                  IN      A       MY_IP
